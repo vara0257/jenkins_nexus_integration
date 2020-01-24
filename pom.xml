@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://172.31.2.113:8081/repository/maven-releases/</url>
+            <url>http://13.234.15.116:8081/repository/sample_jenkins_release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://172.31.2.113:8081/repository/maven-snapshots/</url>
+            <url>http://13.234.15.116:8081/repository/sample_jenkins_snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>

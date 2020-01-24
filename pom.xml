@@ -25,12 +25,6 @@
       </plugin>
     </plugins>
   </build>
-   <server>
-      <id>nexus-snapshots</id>
-      <username>admin</username>
-      <password>admin123</password>
-    </server>
-
 <repositories>
     <repository>
         <id>nexus-snapshots</id>
